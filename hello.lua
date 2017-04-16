@@ -3,4 +3,3 @@ function say(i)
 end
 say("Hello World!")
 print ("springworder@gmail.com")
-print(ss)

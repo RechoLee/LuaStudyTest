@@ -3,10 +3,10 @@
 --while
 a=10
 while (a<=20)
-	do
-		print(a)
-		a=a+1
-	end
+do
+	print(a)
+	a=a+1
+end
 
 --for 
 for i=10,20,1 do
@@ -29,3 +29,8 @@ repeat
 	i=i+1
 	print(i)
 until (i>5)
+
+for i=1,3 do
+	print(i)
+	break
+end
